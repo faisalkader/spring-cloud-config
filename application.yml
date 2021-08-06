@@ -5,3 +5,8 @@ my:
   greeting: hello from the other side - for all apps and envs
   name: default name
   country: united kingdom
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
