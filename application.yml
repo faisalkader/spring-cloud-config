@@ -2,3 +2,6 @@ my:
   language: English
   city: luton
   road: new bedford road
+  greeting: hello from the other side - for all apps and envs
+  name: default name
+  country: united kingdom
